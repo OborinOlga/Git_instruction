@@ -128,4 +128,3 @@ git сheckout <ID commit>
 ```
 git checkout master
 ```
-## **14. Branches**
